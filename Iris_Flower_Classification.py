@@ -4,9 +4,6 @@ https://www.kaggle.com/datasets/arshid/iris-flower-dataset/data
 
 
 
-
-
-
 import joblib
 import tkinter as tk
 from tkinter import messagebox
