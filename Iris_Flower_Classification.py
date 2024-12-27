@@ -1,5 +1,6 @@
 """To do this project I take help from this resources
-https://www.kaggle.com/datasets/arshid/iris-flower-dataset/data 
+https://www.kaggle.com/datasets/arshid/iris-flower-dataset/data
+and https://github.com/Apaulgithub/oibsip_taskno1/blob/main/Iris_Flower_Classification.ipynb
 """
 
 
