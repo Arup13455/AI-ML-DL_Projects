@@ -1,3 +1,12 @@
+"""To do this project I take help from this resources
+https://www.kaggle.com/datasets/arshid/iris-flower-dataset/data 
+"""
+
+
+
+
+
+
 import joblib
 import tkinter as tk
 from tkinter import messagebox
